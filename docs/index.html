@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sydney Easy Money — Ways to earn money in Sydney</title>
+  <meta name="description" content="Find focus groups, market research studies, product testing and more in Sydney. Updated daily." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <header class="header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="logo">
+          <span class="logo-icon">$</span>
+          <span class="logo-text">Sydney<strong>EasyMoney</strong></span>
+        </div>
+        <div class="meta">
+          <span class="update-label">Updated:</span>
+          <span id="last-updated" class="update-time">—</span>
+        </div>
+      </div>
+      <h1 class="hero-title">Earn money in Sydney<br /><span class="accent">without a job search.</span></h1>
+      <p class="hero-sub">Focus groups · Surveys · Product testing · Clinical studies — all in one place.</p>
+    </div>
+  </header>
+
+  <main class="container main">
+
+    <!-- Stats bar -->
+    <div class="stats-bar">
+      <div class="stat">
+        <span id="stat-total" class="stat-num">—</span>
+        <span class="stat-label">active opportunities</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">$50–$340</span>
+        <span class="stat-label">typical pay range</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num" id="stat-sources">—</span>
+        <span class="stat-label">sources monitored</span>
+      </div>
+    </div>
+
+    <!-- Filters -->
+    <div class="filters">
+      <div class="filter-group">
+        <label class="filter-label">Type</label>
+        <div class="filter-pills" id="type-filters">
+          <button class="pill active" data-filter="type" data-value="all">All</button>
+          <button class="pill" data-filter="type" data-value="Focus Group">Focus Group</button>
+          <button class="pill" data-filter="type" data-value="Online Survey">Survey</button>
+          <button class="pill" data-filter="type" data-value="Product Testing">Product Testing</button>
+          <button class="pill" data-filter="type" data-value="Interview">Interview</button>
+          <button class="pill" data-filter="type" data-value="User Research">UX Research</button>
+          <button class="pill" data-filter="type" data-value="Academic Research">Academic</button>
+          <button class="pill" data-filter="type" data-value="Taste Test">Taste Test</button>
+          <button class="pill" data-filter="type" data-value="Clinical Study">Clinical</button>
+        </div>
+      </div>
+      <div class="filter-group">
+        <label class="filter-label">Location</label>
+        <div class="filter-pills">
+          <button class="pill active" data-filter="location" data-value="all">All</button>
+          <button class="pill" data-filter="location" data-value="online">Online</button>
+          <button class="pill" data-filter="location" data-value="presencial">In-person</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Cards grid -->
+    <div id="cards-grid" class="cards-grid"></div>
+
+    <!-- Empty state -->
+    <div id="empty-state" class="empty-state" style="display:none;">
+      <p>No opportunities match this filter right now.</p>
+      <button class="btn-reset" onclick="resetFilters()">View all</button>
+    </div>
+
+    <!-- Sources section -->
+    <section class="sources-section">
+      <h2 class="sources-title">Sources monitored</h2>
+      <div class="sources-grid">
+        <a href="https://rtr.com.au/projects/" target="_blank" class="source-card">
+          <span class="source-name">Realtime Research</span>
+          <span class="source-desc">Focus groups, taste tests, surveys</span>
+        </a>
+        <a href="https://researchconnections.com.au/" target="_blank" class="source-card">
+          <span class="source-name">Research Connections</span>
+          <span class="source-desc">In-person market research studies</span>
+        </a>
+        <a href="https://www.sydneyfocusgroups.com.au/" target="_blank" class="source-card">
+          <span class="source-name">Sydney Focus Groups</span>
+          <span class="source-desc">Focus group specialists in Sydney</span>
+        </a>
+        <a href="https://app.userinterviews.com/studies" target="_blank" class="source-card">
+          <span class="source-name">User Interviews</span>
+          <span class="source-desc">UX research, online product testing</span>
+        </a>
+        <a href="https://www.prolific.com" target="_blank" class="source-card">
+          <span class="source-name">Prolific</span>
+          <span class="source-desc">Academic studies, paid per hour</span>
+        </a>
+        <a href="https://www.scientiaclinicalresearch.com.au/find-a-study/" target="_blank" class="source-card">
+          <span class="source-name">Scientia Clinical Research</span>
+          <span class="source-desc">Phase I clinical trials, high compensation</span>
+        </a>
+        <a href="https://clinibase.com/current-trials/" target="_blank" class="source-card">
+          <span class="source-name">Clinibase</span>
+          <span class="source-desc">Clinical trial aggregator AU/NZ</span>
+        </a>
+        <a href="https://www.gumtree.com.au/s-jobs/sydney/paid+research/k0c9300l3005796" target="_blank" class="source-card">
+          <span class="source-name">Gumtree AU</span>
+          <span class="source-desc">Local classifieds for paid studies</span>
+        </a>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>Data aggregated automatically. Always verify opportunities on the original source before participating.</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
