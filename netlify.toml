@@ -1,0 +1,14 @@
+[build]
+  publish = "web"
+  command = ""
+
+[[headers]]
+  for = "/data/opportunities.json"
+  [headers.values]
+    Cache-Control = "no-cache, must-revalidate"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
