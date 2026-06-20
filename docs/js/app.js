@@ -65,7 +65,8 @@ function cardHTML(opp) {
         <span class="card-source">${esc(opp.source)}</span>
         <span class="card-location">${esc(opp.location)}</span>
       </div>
-      <a href="${esc(opp.link)}" target="_blank" rel="noopener" class="card-link">
+      <a href="${esc(opp.link)}" target="_blank" rel="noopener" class="card-link"
+         data-source="${esc(opp.source)}" data-opp-type="${esc(opp.type)}">
         View opportunity →
       </a>
     </div>
@@ -103,6 +104,16 @@ function resetFilters() {
   });
   renderCards();
 }
+
+// ─── Click tracking (Google Analytics) ────────────────
+document.getElementById('cards-grid').addEventListener('click', (e) => {
+  const link = e.target.closest('.card-link');
+  if (!link || !window.gtag) return;
+  gtag('event', 'click_opportunity', {
+    source: link.dataset.source || '',
+    opp_type: link.dataset.oppType || ''
+  });
+});
 
 // ─── Init ─────────────────────────────────────────────
 loadData();
