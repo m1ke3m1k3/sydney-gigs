@@ -1,222 +1,15 @@
 {
-  "last_updated": "11 Aug 2026, 22:39",
-  "total": 51,
+  "last_updated": "12 Aug 2026, 22:38",
+  "total": 41,
   "opportunities": [
-    {
-      "source": "Realtime Research",
-      "title": "In-Person Taste Test | Rosehill",
-      "pay": "$50",
-      "type": "Taste Test",
-      "location": "Rosehill, NSW",
-      "link": "https://rtr.com.au/projects/in-person-taste-test-rosehill/",
-      "scraped_at": "2026-08-11T22:39:29.994402"
-    },
-    {
-      "source": "Realtime Research",
-      "title": "In-Person Focus Group | Parramatta, Sydney CBD",
-      "pay": "$140",
-      "type": "Focus Group",
-      "location": "Parramatta OR Sydney CBD",
-      "link": "https://rtr.com.au/projects/in-person-focus-group-parramatta-sydney-cbd/",
-      "scraped_at": "2026-08-11T22:39:29.994896"
-    },
-    {
-      "source": "Realtime Research",
-      "title": "Online Interview | NSW, QLD, VIC, TAS",
-      "pay": "$100",
-      "type": "Interview",
-      "location": "NSW, VIC, QLD, & TAS",
-      "link": "https://rtr.com.au/projects/online-interview-nsw-qld-vic-tas/",
-      "scraped_at": "2026-08-11T22:39:29.995304"
-    },
-    {
-      "source": "Realtime Research",
-      "title": "In-Person Focus Group OR Online Focus Group | NSW",
-      "pay": "<$140",
-      "type": "Focus Group",
-      "location": "NSW",
-      "link": "https://rtr.com.au/projects/in-person-focus-group-or-online-focus-group-nsw/",
-      "scraped_at": "2026-08-11T22:39:29.995729"
-    },
-    {
-      "source": "Realtime Research",
-      "title": "In-Person Focus Group | Sydney",
-      "pay": "$140",
-      "type": "Focus Group",
-      "location": "North Sydney",
-      "link": "https://rtr.com.au/projects/in-person-focus-group-sydney-7/",
-      "scraped_at": "2026-08-11T22:39:29.996153"
-    },
-    {
-      "source": "Realtime Research",
-      "title": "In-Person Focus Group + Pre-Task | Sydney CBD",
-      "pay": "$225",
-      "type": "Focus Group",
-      "location": "Sydney CBD",
-      "link": "https://rtr.com.au/projects/in-person-focus-group-pre-task-sydney-cbd-2/",
-      "scraped_at": "2026-08-11T22:39:29.996552"
-    },
-    {
-      "source": "Realtime Research",
-      "title": "Online Panel + Online Focus Group | Melbourne",
-      "pay": "$290",
-      "type": "Online Survey",
-      "location": "Greater Melbourne Area",
-      "link": "https://rtr.com.au/projects/online-panel-online-focus-group-melbourne-2/",
-      "scraped_at": "2026-08-11T22:39:29.996976"
-    },
-    {
-      "source": "Realtime Research",
-      "title": "Taste Test | Parramatta",
-      "pay": "$110",
-      "type": "Taste Test",
-      "location": "Parramatta",
-      "link": "https://rtr.com.au/projects/taste-test-parramatta-8/",
-      "scraped_at": "2026-08-11T22:39:29.997370"
-    },
-    {
-      "source": "Realtime Research",
-      "title": "Product Trial + Survey | Sydney, Melbourne, Brisbane, Adelaide, Perth",
-      "pay": "<$70",
-      "type": "Online Survey",
-      "location": "Sydney, Melbourne, Brisbane, Adelaide, and Perth",
-      "link": "https://rtr.com.au/projects/product-trial-survey-sydney-melbourne-brisbane-adelaide-perth/",
-      "scraped_at": "2026-08-11T22:39:29.997787"
-    },
-    {
-      "source": "Research Connections",
-      "title": "Finding you greatrespondentsevery time...",
-      "pay": "$100",
-      "type": "Focus Group",
-      "location": "Sydney / Online",
-      "link": "https://logon.researchconnections.com.au/Account/Register?type=consumer",
-      "scraped_at": "2026-08-11T22:39:36.332357"
-    },
     {
       "source": "Scientia Clinical Research",
       "title": "General Recruitment",
-      "pay": "$8,175",
+      "pay": "$6,000",
       "type": "Clinical Study",
       "location": "Sydney (in-person, medical supervision)",
       "link": "https://www.scientiaclinicalresearch.com.au/register/",
-      "scraped_at": "2026-08-11T22:39:49.779603"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "A Healthy Volunteer Study",
-      "pay": "$8,175",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/a-healthy-volunteer-study/",
-      "scraped_at": "2026-08-11T22:39:49.779977"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Topical Aspirin Study",
-      "pay": "$7,500",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-oral-capsule-study/",
-      "scraped_at": "2026-08-11T22:39:49.780159"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Epilepsy Study",
-      "pay": "$3,400",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-epilepsy-study/",
-      "scraped_at": "2026-08-11T22:39:49.780341"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Weight Loss Study",
-      "pay": "$5,000",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-weight-loss-study/",
-      "scraped_at": "2026-08-11T22:39:49.780521"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Kidney Health Study",
-      "pay": "$8,500",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-kidney-health-study/",
-      "scraped_at": "2026-08-11T22:39:49.780722"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "Potential Treatment for Fungal Infections",
-      "pay": "$10,600",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/potential-treatment-for-fungal-infections-2/",
-      "scraped_at": "2026-08-11T22:39:49.780911"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "Inflammatory Diseases",
-      "pay": "$6,950",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/inflammatory-diseases/",
-      "scraped_at": "2026-08-11T22:39:49.781089"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Moving Forward Study",
-      "pay": "$3,150",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-moving-forward-study/",
-      "scraped_at": "2026-08-11T22:39:49.781267"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Medical Imaging Study",
-      "pay": "$3,200",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/medical-imaging-study/",
-      "scraped_at": "2026-08-11T22:39:49.781584"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Neuro Study",
-      "pay": "$3,000",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-neuro-study/",
-      "scraped_at": "2026-08-11T22:39:49.781788"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "A Potential Treatment for Sleep Disorders",
-      "pay": "$8,200",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/a-potential-treatment-for-sleep-disorders/",
-      "scraped_at": "2026-08-11T22:39:49.781968"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Breast Health Study",
-      "pay": "$8,500",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-breast-health-study/",
-      "scraped_at": "2026-08-11T22:39:49.782281"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Iron Study",
-      "pay": "$9,450",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-iron-study/",
-      "scraped_at": "2026-08-11T22:39:49.782455"
+      "scraped_at": "2026-08-12T22:38:26.699208"
     },
     {
       "source": "Scientia Clinical Research",
@@ -225,7 +18,124 @@
       "type": "Clinical Study",
       "location": "Sydney (in-person, medical supervision)",
       "link": "https://www.scientiaclinicalresearch.com.au/study/the-viral-study/",
-      "scraped_at": "2026-08-11T22:39:49.782631"
+      "scraped_at": "2026-08-12T22:38:26.699472"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "A Healthy Volunteer Study",
+      "pay": "$8,175",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/a-healthy-volunteer-study/",
+      "scraped_at": "2026-08-12T22:38:26.699601"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "The Topical Aspirin Study",
+      "pay": "$7,500",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/the-oral-capsule-study/",
+      "scraped_at": "2026-08-12T22:38:26.699738"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "The Epilepsy Study",
+      "pay": "$3,400",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/the-epilepsy-study/",
+      "scraped_at": "2026-08-12T22:38:26.699863"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "The Weight Loss Study",
+      "pay": "$5,000",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/the-weight-loss-study/",
+      "scraped_at": "2026-08-12T22:38:26.699986"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "The Kidney Health Study",
+      "pay": "$8,500",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/the-kidney-health-study/",
+      "scraped_at": "2026-08-12T22:38:26.700110"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "Potential Treatment for Fungal Infections",
+      "pay": "$10,600",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/potential-treatment-for-fungal-infections-2/",
+      "scraped_at": "2026-08-12T22:38:26.700229"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "Inflammatory Diseases",
+      "pay": "$6,950",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/inflammatory-diseases/",
+      "scraped_at": "2026-08-12T22:38:26.700347"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "The Moving Forward Study",
+      "pay": "$3,150",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/the-moving-forward-study/",
+      "scraped_at": "2026-08-12T22:38:26.700468"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "The Medical Imaging Study",
+      "pay": "$3,200",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/medical-imaging-study/",
+      "scraped_at": "2026-08-12T22:38:26.700701"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "The Neuro Study",
+      "pay": "$3,000",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/the-neuro-study/",
+      "scraped_at": "2026-08-12T22:38:26.700824"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "A Potential Treatment for Sleep Disorders",
+      "pay": "$8,200",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/a-potential-treatment-for-sleep-disorders/",
+      "scraped_at": "2026-08-12T22:38:26.700945"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "The Breast Health Study",
+      "pay": "$8,500",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/the-breast-health-study/",
+      "scraped_at": "2026-08-12T22:38:26.701169"
+    },
+    {
+      "source": "Scientia Clinical Research",
+      "title": "The Iron Study",
+      "pay": "$9,450",
+      "type": "Clinical Study",
+      "location": "Sydney (in-person, medical supervision)",
+      "link": "https://www.scientiaclinicalresearch.com.au/study/the-iron-study/",
+      "scraped_at": "2026-08-12T22:38:26.701288"
     },
     {
       "source": "Clinibase",
@@ -234,7 +144,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Chronic Obstructive Pulmonary Disease (COPD)",
-      "scraped_at": "2026-08-11T22:39:56.710352"
+      "scraped_at": "2026-08-12T22:38:33.103881"
     },
     {
       "source": "Clinibase",
@@ -243,7 +153,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Caucasian Healthy Volunteer",
-      "scraped_at": "2026-08-11T22:39:56.711636"
+      "scraped_at": "2026-08-12T22:38:33.104825"
     },
     {
       "source": "Clinibase",
@@ -252,7 +162,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=HHT",
-      "scraped_at": "2026-08-11T22:39:56.711799"
+      "scraped_at": "2026-08-12T22:38:33.104915"
     },
     {
       "source": "Clinibase",
@@ -261,7 +171,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Polymyositis",
-      "scraped_at": "2026-08-11T22:39:56.711963"
+      "scraped_at": "2026-08-12T22:38:33.105021"
     },
     {
       "source": "Clinibase",
@@ -270,7 +180,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Obesity",
-      "scraped_at": "2026-08-11T22:39:56.712139"
+      "scraped_at": "2026-08-12T22:38:33.105142"
     },
     {
       "source": "Clinibase",
@@ -279,7 +189,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Obesity",
-      "scraped_at": "2026-08-11T22:39:56.712274"
+      "scraped_at": "2026-08-12T22:38:33.105228"
     },
     {
       "source": "Clinibase",
@@ -288,7 +198,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Elevated Cholesterol and Triglycerides",
-      "scraped_at": "2026-08-11T22:39:56.712439"
+      "scraped_at": "2026-08-12T22:38:33.105339"
     },
     {
       "source": "Clinibase",
@@ -297,7 +207,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Asthma",
-      "scraped_at": "2026-08-11T22:39:56.712575"
+      "scraped_at": "2026-08-12T22:38:33.105430"
     },
     {
       "source": "Clinibase",
@@ -306,7 +216,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Submental Fat",
-      "scraped_at": "2026-08-11T22:39:56.712735"
+      "scraped_at": "2026-08-12T22:38:33.105521"
     },
     {
       "source": "Clinibase",
@@ -315,7 +225,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=ObesityAndKneeOA",
-      "scraped_at": "2026-08-11T22:39:56.712979"
+      "scraped_at": "2026-08-12T22:38:33.105611"
     },
     {
       "source": "Clinibase",
@@ -324,7 +234,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Type 2 Diabetes",
-      "scraped_at": "2026-08-11T22:39:56.713129"
+      "scraped_at": "2026-08-12T22:38:33.105709"
     },
     {
       "source": "Clinibase",
@@ -333,7 +243,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Caucasian Female Only Healthy Volunteer",
-      "scraped_at": "2026-08-11T22:39:56.713265"
+      "scraped_at": "2026-08-12T22:38:33.105796"
     },
     {
       "source": "Clinibase",
@@ -342,7 +252,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Healthy Volunteer with Elevated BMI",
-      "scraped_at": "2026-08-11T22:39:56.713400"
+      "scraped_at": "2026-08-12T22:38:33.105881"
     },
     {
       "source": "Clinibase",
@@ -351,7 +261,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Abdominal Fat",
-      "scraped_at": "2026-08-11T22:39:56.713529"
+      "scraped_at": "2026-08-12T22:38:33.105970"
     },
     {
       "source": "Clinibase",
@@ -360,7 +270,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=COVID+and+flu+vaccine+trial",
-      "scraped_at": "2026-08-11T22:39:56.713712"
+      "scraped_at": "2026-08-12T22:38:33.106075"
     },
     {
       "source": "Clinibase",
@@ -369,7 +279,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Multiple Sclerosis",
-      "scraped_at": "2026-08-11T22:39:56.713910"
+      "scraped_at": "2026-08-12T22:38:33.106197"
     },
     {
       "source": "Clinibase",
@@ -378,7 +288,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Bronchiectasis",
-      "scraped_at": "2026-08-11T22:39:56.714042"
+      "scraped_at": "2026-08-12T22:38:33.106280"
     },
     {
       "source": "Clinibase",
@@ -387,7 +297,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Graves Disease",
-      "scraped_at": "2026-08-11T22:39:56.714174"
+      "scraped_at": "2026-08-12T22:38:33.106363"
     },
     {
       "source": "Clinibase",
@@ -396,7 +306,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Overnight+Stay+Healthy+Volunteers",
-      "scraped_at": "2026-08-11T22:39:56.714307"
+      "scraped_at": "2026-08-12T22:38:33.106446"
     },
     {
       "source": "Clinibase",
@@ -405,7 +315,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Male+Pattern+Baldness",
-      "scraped_at": "2026-08-11T22:39:56.714437"
+      "scraped_at": "2026-08-12T22:38:33.106528"
     },
     {
       "source": "Clinibase",
@@ -414,7 +324,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Type+2+Diabetes+and+Obesity",
-      "scraped_at": "2026-08-11T22:39:56.714580"
+      "scraped_at": "2026-08-12T22:38:33.106619"
     },
     {
       "source": "Clinibase",
@@ -423,7 +333,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Premature+Ejaculation",
-      "scraped_at": "2026-08-11T22:39:56.714760"
+      "scraped_at": "2026-08-12T22:38:33.106734"
     },
     {
       "source": "Clinibase",
@@ -432,7 +342,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Rheumatoid+Arthritis",
-      "scraped_at": "2026-08-11T22:39:56.714952"
+      "scraped_at": "2026-08-12T22:38:33.106815"
     },
     {
       "source": "Clinibase",
@@ -441,7 +351,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Type+2+Diabetes+and+Overweight",
-      "scraped_at": "2026-08-11T22:39:56.715187"
+      "scraped_at": "2026-08-12T22:38:33.106935"
     },
     {
       "source": "Clinibase",
@@ -450,7 +360,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Cholesterol",
-      "scraped_at": "2026-08-11T22:39:56.715411"
+      "scraped_at": "2026-08-12T22:38:33.107074"
     },
     {
       "source": "Clinibase",
@@ -459,7 +369,7 @@
       "type": "Clinical Study",
       "location": "Sydney / Australia",
       "link": "https://clinibase.com/pages/contact-us/?interest=Mixedhyperlipidemia",
-      "scraped_at": "2026-08-11T22:39:56.715562"
+      "scraped_at": "2026-08-12T22:38:33.107170"
     }
   ]
 }
