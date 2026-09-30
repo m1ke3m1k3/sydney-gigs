@@ -1,7 +1,16 @@
 {
-  "last_updated": "29 Sep 2026, 01:29",
-  "total": 16,
+  "last_updated": "30 Sep 2026, 01:05",
+  "total": 18,
   "opportunities": [
+    {
+      "source": "Realtime Research",
+      "title": "In-Person Focus Group | Newcastle, NSW",
+      "pay": "$120",
+      "type": "Focus Group",
+      "location": "Newcastle, NSW",
+      "link": "https://rtr.com.au/projects/in-person-focus-group-newcastle-nsw/",
+      "scraped_at": "2026-09-30T01:05:06.110837"
+    },
     {
       "source": "Realtime Research",
       "title": "Online Focus Group | NSW, VIC, QLD, ACT & SA",
@@ -9,7 +18,7 @@
       "type": "Focus Group",
       "location": "NSW, VIC, QLD, ACT & SA",
       "link": "https://rtr.com.au/projects/online-focus-group-nsw-vic-qld-act-sa/",
-      "scraped_at": "2026-09-29T01:29:00.103397"
+      "scraped_at": "2026-09-30T01:05:06.111156"
     },
     {
       "source": "Realtime Research",
@@ -18,7 +27,7 @@
       "type": "Clinical Study",
       "location": "North Sydney",
       "link": "https://rtr.com.au/projects/in-home-product-trial-pick-up-north-sydney/",
-      "scraped_at": "2026-09-29T01:29:00.103647"
+      "scraped_at": "2026-09-30T01:05:06.111445"
     },
     {
       "source": "Realtime Research",
@@ -27,7 +36,7 @@
       "type": "Online Survey",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-panel-australia-wide-142/",
-      "scraped_at": "2026-09-29T01:29:00.103857"
+      "scraped_at": "2026-09-30T01:05:06.111712"
     },
     {
       "source": "Realtime Research",
@@ -36,7 +45,7 @@
       "type": "Focus Group",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-focus-group-australia-wide-185/",
-      "scraped_at": "2026-09-29T01:29:00.104062"
+      "scraped_at": "2026-09-30T01:05:06.111983"
     },
     {
       "source": "Realtime Research",
@@ -45,7 +54,7 @@
       "type": "Online Survey",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-panel-or-in-person-focus-group-australia-wide/",
-      "scraped_at": "2026-09-29T01:29:00.104278"
+      "scraped_at": "2026-09-30T01:05:06.112247"
     },
     {
       "source": "Realtime Research",
@@ -54,7 +63,7 @@
       "type": "Focus Group",
       "location": "Sydney",
       "link": "https://rtr.com.au/projects/online-focus-group-sydney-11/",
-      "scraped_at": "2026-09-29T01:29:00.104484"
+      "scraped_at": "2026-09-30T01:05:06.112521"
     },
     {
       "source": "Realtime Research",
@@ -63,7 +72,7 @@
       "type": "Focus Group",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-focus-group-australia-wide-184/",
-      "scraped_at": "2026-09-29T01:29:00.104686"
+      "scraped_at": "2026-09-30T01:05:06.112783"
     },
     {
       "source": "Realtime Research",
@@ -72,7 +81,7 @@
       "type": "Online Survey",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-panel-australia-wide-141/",
-      "scraped_at": "2026-09-29T01:29:00.104881"
+      "scraped_at": "2026-09-30T01:05:06.113043"
     },
     {
       "source": "Realtime Research",
@@ -81,7 +90,7 @@
       "type": "Interview",
       "location": "Sydney CBD to North-Western Sydney",
       "link": "https://rtr.com.au/projects/in-home-interview-north-western-sydney/",
-      "scraped_at": "2026-09-29T01:29:00.105078"
+      "scraped_at": "2026-09-30T01:05:06.113311"
     },
     {
       "source": "Realtime Research",
@@ -90,7 +99,7 @@
       "type": "Online Survey",
       "location": "Newcastle, Central Coast, Gold Coast",
       "link": "https://rtr.com.au/projects/online-panel-newcastle-central-coast-gold-coast/",
-      "scraped_at": "2026-09-29T01:29:00.105288"
+      "scraped_at": "2026-09-30T01:05:06.113577"
     },
     {
       "source": "Realtime Research",
@@ -99,7 +108,7 @@
       "type": "Focus Group",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-focus-group-pre-task-australia-wide-19/",
-      "scraped_at": "2026-09-29T01:29:00.105492"
+      "scraped_at": "2026-09-30T01:05:06.113840"
     },
     {
       "source": "Realtime Research",
@@ -108,7 +117,7 @@
       "type": "Focus Group",
       "location": "Sydney CBD",
       "link": "https://rtr.com.au/projects/in-person-workshop-sydney-cbd/",
-      "scraped_at": "2026-09-29T01:29:00.105692"
+      "scraped_at": "2026-09-30T01:05:06.114101"
     },
     {
       "source": "Realtime Research",
@@ -117,7 +126,7 @@
       "type": "Interview",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-interview-australia-wide-80/",
-      "scraped_at": "2026-09-29T01:29:00.105887"
+      "scraped_at": "2026-09-30T01:05:06.114369"
     },
     {
       "source": "Realtime Research",
@@ -126,7 +135,7 @@
       "type": "Online Survey",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-survey-product-trial-australia-wide/",
-      "scraped_at": "2026-09-29T01:29:00.106081"
+      "scraped_at": "2026-09-30T01:05:06.114629"
     },
     {
       "source": "Realtime Research",
@@ -135,7 +144,7 @@
       "type": "Interview",
       "location": "Sydney, Melbourne, Brisbane",
       "link": "https://rtr.com.au/projects/online-panel-if-selected-in-home-interview-sydney-melbourne-brisbane/",
-      "scraped_at": "2026-09-29T01:29:00.106289"
+      "scraped_at": "2026-09-30T01:05:06.114891"
     },
     {
       "source": "Realtime Research",
@@ -144,7 +153,16 @@
       "type": "Online Survey",
       "location": "Sydney",
       "link": "https://rtr.com.au/projects/online-panel-if-selected-in-person-focus-group-sydney/",
-      "scraped_at": "2026-09-29T01:29:00.106491"
+      "scraped_at": "2026-09-30T01:05:06.115152"
+    },
+    {
+      "source": "Research Connections",
+      "title": "Finding you greatrespondentsevery time...",
+      "pay": "$100",
+      "type": "Focus Group",
+      "location": "Sydney / Online",
+      "link": "https://logon.researchconnections.com.au/Account/Register?type=consumer",
+      "scraped_at": "2026-09-30T01:05:14.631072"
     }
   ]
 }
