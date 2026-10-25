@@ -1,6 +1,6 @@
 {
-  "last_updated": "25 Oct 2026, 00:00",
-  "total": 32,
+  "last_updated": "25 Oct 2026, 23:49",
+  "total": 18,
   "opportunities": [
     {
       "source": "Realtime Research",
@@ -9,7 +9,7 @@
       "type": "Online Survey",
       "location": "NSW, VIC, QLD, SA, WA",
       "link": "https://rtr.com.au/projects/online-focus-group-or-online-panel-nsw-vic-qld-sa-wa/",
-      "scraped_at": "2026-10-25T00:00:11.803721"
+      "scraped_at": "2026-10-25T23:49:09.731104"
     },
     {
       "source": "Realtime Research",
@@ -18,7 +18,7 @@
       "type": "Focus Group",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-focus-group-australia-wide-186/",
-      "scraped_at": "2026-10-25T00:00:11.804001"
+      "scraped_at": "2026-10-25T23:49:09.731519"
     },
     {
       "source": "Realtime Research",
@@ -27,7 +27,7 @@
       "type": "Focus Group",
       "location": "Online: Australia-wide | In-person: Sydney ",
       "link": "https://rtr.com.au/projects/online-interview-or-in-person-focus-group-or-in-home-interview-australia-wide/",
-      "scraped_at": "2026-10-25T00:00:11.804245"
+      "scraped_at": "2026-10-25T23:49:09.731871"
     },
     {
       "source": "Realtime Research",
@@ -36,7 +36,7 @@
       "type": "Focus Group",
       "location": "Newcastle, NSW",
       "link": "https://rtr.com.au/projects/online-focus-group-newcastle-nsw-2/",
-      "scraped_at": "2026-10-25T00:00:11.804491"
+      "scraped_at": "2026-10-25T23:49:09.732233"
     },
     {
       "source": "Realtime Research",
@@ -45,7 +45,7 @@
       "type": "Focus Group",
       "location": "Sydney CBD + Parramatta",
       "link": "https://rtr.com.au/projects/in-person-focus-group-sydney-parramatta/",
-      "scraped_at": "2026-10-25T00:00:11.804724"
+      "scraped_at": "2026-10-25T23:49:09.732581"
     },
     {
       "source": "Realtime Research",
@@ -54,7 +54,7 @@
       "type": "Taste Test",
       "location": "Parramatta",
       "link": "https://rtr.com.au/projects/taste-test-parramatta-9/",
-      "scraped_at": "2026-10-25T00:00:11.804955"
+      "scraped_at": "2026-10-25T23:49:09.732922"
     },
     {
       "source": "Realtime Research",
@@ -63,7 +63,7 @@
       "type": "Clinical Study",
       "location": "Gosford",
       "link": "https://rtr.com.au/projects/in-home-product-trial-pick-up-north-sydney-2/",
-      "scraped_at": "2026-10-25T00:00:11.805185"
+      "scraped_at": "2026-10-25T23:49:09.733280"
     },
     {
       "source": "Realtime Research",
@@ -72,7 +72,7 @@
       "type": "Taste Test",
       "location": "Thornleigh, NSW",
       "link": "https://rtr.com.au/projects/in-person-taste-test/",
-      "scraped_at": "2026-10-25T00:00:11.805414"
+      "scraped_at": "2026-10-25T23:49:09.733616"
     },
     {
       "source": "Realtime Research",
@@ -81,7 +81,7 @@
       "type": "Focus Group",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-focus-group-pre-task-australia-wide-20/",
-      "scraped_at": "2026-10-25T00:00:11.805655"
+      "scraped_at": "2026-10-25T23:49:09.733954"
     },
     {
       "source": "Realtime Research",
@@ -90,7 +90,7 @@
       "type": "Interview",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-panel-online-interview-australia-wide-12/",
-      "scraped_at": "2026-10-25T00:00:11.805885"
+      "scraped_at": "2026-10-25T23:49:09.734317"
     },
     {
       "source": "Realtime Research",
@@ -99,7 +99,7 @@
       "type": "Focus Group",
       "location": "NSW, WA, SA, VIC, & QLD",
       "link": "https://rtr.com.au/projects/online-focus-group-nsw-vic-wa-sa-qld/",
-      "scraped_at": "2026-10-25T00:00:11.806116"
+      "scraped_at": "2026-10-25T23:49:09.734658"
     },
     {
       "source": "Realtime Research",
@@ -108,7 +108,7 @@
       "type": "Focus Group",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-focus-group-home-task-or-online-interview-australia-wide/",
-      "scraped_at": "2026-10-25T00:00:11.806347"
+      "scraped_at": "2026-10-25T23:49:09.734996"
     },
     {
       "source": "Realtime Research",
@@ -117,7 +117,7 @@
       "type": "Focus Group",
       "location": "Melbourne",
       "link": "https://rtr.com.au/projects/in-person-focus-group-melbourne/",
-      "scraped_at": "2026-10-25T00:00:11.806581"
+      "scraped_at": "2026-10-25T23:49:09.735354"
     },
     {
       "source": "Realtime Research",
@@ -126,7 +126,7 @@
       "type": "Online Survey",
       "location": "Online WA",
       "link": "https://rtr.com.au/projects/online-panel-wa-3/",
-      "scraped_at": "2026-10-25T00:00:11.806806"
+      "scraped_at": "2026-10-25T23:49:09.735707"
     },
     {
       "source": "Realtime Research",
@@ -135,7 +135,7 @@
       "type": "Focus Group",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-focus-group-nsw-31/",
-      "scraped_at": "2026-10-25T00:00:11.807070"
+      "scraped_at": "2026-10-25T23:49:09.736052"
     },
     {
       "source": "Realtime Research",
@@ -144,7 +144,7 @@
       "type": "Focus Group",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-focus-group-nsw-30/",
-      "scraped_at": "2026-10-25T00:00:11.807306"
+      "scraped_at": "2026-10-25T23:49:09.736412"
     },
     {
       "source": "Realtime Research",
@@ -153,7 +153,7 @@
       "type": "Focus Group",
       "location": "Australia-wide",
       "link": "https://rtr.com.au/projects/online-focus-group-nsw-29/",
-      "scraped_at": "2026-10-25T00:00:11.807550"
+      "scraped_at": "2026-10-25T23:49:09.736746"
     },
     {
       "source": "Realtime Research",
@@ -162,133 +162,7 @@
       "type": "Focus Group",
       "location": "Australia-Wide",
       "link": "https://rtr.com.au/projects/online-focus-group-nsw-28/",
-      "scraped_at": "2026-10-25T00:00:11.807779"
-    },
-    {
-      "source": "Research Connections",
-      "title": "Finding you greatrespondentsevery time...",
-      "pay": "$100",
-      "type": "Focus Group",
-      "location": "Sydney / Online",
-      "link": "https://logon.researchconnections.com.au/Account/Register?type=consumer",
-      "scraped_at": "2026-10-25T00:00:17.518323"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "General Recruitment",
-      "pay": "$6,950",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/register/",
-      "scraped_at": "2026-10-25T00:00:30.101126"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "Inflammatory Diseases",
-      "pay": "$6,950",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/inflammatory-diseases/",
-      "scraped_at": "2026-10-25T00:00:30.101327"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Kidney Stone Study",
-      "pay": "$6,200",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-kidney-stone-study/",
-      "scraped_at": "2026-10-25T00:00:30.101434"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Moving Forward Study",
-      "pay": "$13,200",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-moving-forward-study/",
-      "scraped_at": "2026-10-25T00:00:30.101550"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Neuro Study",
-      "pay": "$12,100",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-neuro-study-2/",
-      "scraped_at": "2026-10-25T00:00:30.101657"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Patch Study",
-      "pay": "$9,250",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-patch-study/",
-      "scraped_at": "2026-10-25T00:00:30.101761"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "A Healthy Volunteer Study",
-      "pay": "$8,175",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/a-healthy-volunteer-study/",
-      "scraped_at": "2026-10-25T00:00:30.101863"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Prognostic Study",
-      "pay": "$3,100",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-prognostic-study/",
-      "scraped_at": "2026-10-25T00:00:30.101964"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Epilepsy Study",
-      "pay": "$11,200",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-epilepsy-study/",
-      "scraped_at": "2026-10-25T00:00:30.102065"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Topical Aspirin Study",
-      "pay": "$7,500",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-oral-capsule-study/",
-      "scraped_at": "2026-10-25T00:00:30.102164"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Weight Loss Study",
-      "pay": "$5,000",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-weight-loss-study/",
-      "scraped_at": "2026-10-25T00:00:30.102267"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "A Potential Treatment for Sleep Disorders",
-      "pay": "$8,200",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/a-potential-treatment-for-sleep-disorders/",
-      "scraped_at": "2026-10-25T00:00:30.102368"
-    },
-    {
-      "source": "Scientia Clinical Research",
-      "title": "The Iron Study",
-      "pay": "$9,450",
-      "type": "Clinical Study",
-      "location": "Sydney (in-person, medical supervision)",
-      "link": "https://www.scientiaclinicalresearch.com.au/study/the-iron-study/",
-      "scraped_at": "2026-10-25T00:00:30.102479"
+      "scraped_at": "2026-10-25T23:49:09.737086"
     }
   ]
 }
